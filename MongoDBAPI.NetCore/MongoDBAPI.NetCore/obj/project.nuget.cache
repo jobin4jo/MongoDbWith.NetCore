@@ -1,15 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "bpL315L+CdaMOds4AUPjstt0c8FdWeHDVKKJTb9PnjsFugL9qaxFHJoE0LHvxnr7j7am8DTDw7VwYHN5A79wIA==",
+  "dgSpecHash": "oxk8yzg+mWTX5Q+4Vb5QBIG9+zTfS0zTIRCAqpCKjxxBiUNjuCJ/6NKz8bqSX5aagxVH8h3EmwVf434hXt6Jlw==",
   "success": true,
   "projectFilePath": "F:\\.NetWithMongoDBAPI\\MongoDBAPI.NetCore\\MongoDBAPI.NetCore\\MongoDBAPI.NetCore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\JOBIN\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\JOBIN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\JOBIN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\mongodb.bson\\2.17.0\\mongodb.bson.2.17.0.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\mongodb.driver\\2.17.0\\mongodb.driver.2.17.0.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\mongodb.driver.core\\2.17.0\\mongodb.driver.core.2.17.0.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\mongodb.libmongocrypt\\1.5.4\\mongodb.libmongocrypt.1.5.4.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\JOBIN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\JOBIN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\JOBIN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\JOBIN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\JOBIN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\JOBIN\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

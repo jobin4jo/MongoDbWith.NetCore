@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wXE6b4FUvEc0cZn0c6eF/dUoVaUFStpR+u+LLEc+j3o=",
+  "Source": "MongoDBAPI.NetCore",
+  "BasePath": "_content/MongoDBAPI.NetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
