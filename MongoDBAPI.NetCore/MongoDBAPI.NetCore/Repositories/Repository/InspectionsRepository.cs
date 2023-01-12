@@ -28,6 +28,11 @@ namespace MongoDBAPI.NetCore.Repositories.Repository
             return _inspections.Find(s => s.Id == id).FirstOrDefault();
         }
 
+        public Task<user> getUser()
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<bool> Remove(string id)
         {
             throw new NotImplementedException();

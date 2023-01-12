@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Bson;
+using MongoDB.Driver;
 using MongoDBAPI.NetCore.Model;
 using MongoDBAPI.NetCore.Repositories.IRepository;
 
@@ -39,5 +41,17 @@ namespace MongoDBAPI.NetCore.Controllers
             return res;
 
         }
+
+        [HttpGet("GetUser")]
+        public async Task<ActionResult> GetAlluser()
+        {
+            var dbClient = new MongoClient("mongodb://localhost:27017");
+            IMongoDatabase db = dbClient.GetDatabase("admin");
+            var cars = db.GetCollection<BsonDocument>("user");
+            var documents = cars.Find(new BsonDocument()).ToList();
+            var res = documents.ToString();
+            return Ok(new {  documents });
+        }
+
     }
 }

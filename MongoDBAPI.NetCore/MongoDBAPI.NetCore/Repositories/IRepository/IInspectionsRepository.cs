@@ -9,6 +9,6 @@ namespace MongoDBAPI.NetCore.Repositories.IRepository
         Task<Inspections> CreateInspection(Inspections inspection);
         Task<bool> Remove(string id);
         Task<bool>Update(string id,Inspections inspections);
-
+        Task<user> getUser();
     }
 }
